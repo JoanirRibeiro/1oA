@@ -3,5 +3,6 @@ background-color: rgb(226, 43, 43);
 }
     h1 {
         text-align: center;
-        color: burlywood;
+    }
+    h1 { color: burlywood;
     }
