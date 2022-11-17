@@ -2,7 +2,16 @@ body {
 background-color: rgb(226, 43, 43);
 }
     h1 {
+        font-size: 80px;
+    }
+    h1 {
         text-align: center;
     }
     h1 { color: burlywood;
+    }
+    h2 {
+        font-size: 35;   
+    }
+    p {
+        font-size: 25;
     }
